@@ -14,7 +14,7 @@ For software and implementation details see:
 		net install rdpower, from(https://sites.google.com/site/rdpackages/rdpower/stata) replace
   or  
 
-		github install iphone7725/rdmulti
+		github install iphone7725/rdpower
 
 * Help files: rdpower, rdsampsi -- Replication files: do-file, data-senate
 * Repository for manual installation: https://sites.google.com/site/rdpackages/rdpower/stata
