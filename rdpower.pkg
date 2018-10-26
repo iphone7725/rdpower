@@ -1,0 +1,22 @@
+v 0.02
+d STATA Package: RDPOWER
+d 
+d Authors: Matias D. Cattaneo, Department of Economics, University of Michigan, cattaneo@umich.edu
+d          Rocio Titiunik, Department of Political Science, University of Michigan, titiunik@umich.edu
+d          Gonzalo Vazquez-Bare, Department of Economics, University of California, Santa Barbara, gvazquez@econ.ucsb.edu
+d
+d Date: 09-Oct-2018
+d 
+f rdpower.ado
+f rdpower.sthlp
+f rdsampsi.ado
+f rdsampsi.sthlp
+f rdpower_powerfun.mo
+f rdpower_powerfun_dot.mo
+f rdpower_powerNR.mo
+f rdpower_functions.do
+f rdpower_illustration.do
+f rdpower_senate.dta
+
+
+
